@@ -1,5 +1,5 @@
 # Tokenizer-Parser-Evaluator-Interpreter
-Tokenizer,Simple Parser, Evaluator, and Interpreter written in Java
+Tokenizer,Simple Parser, Evaluator, and Interpreter written in Java - Goal is to be able to replicate PYTHON in JAVA
 
 Tokenizer.java
 
